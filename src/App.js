@@ -22,61 +22,54 @@ Year 2 — Strengthen Core & Build Projects: DSA, CS fundamentals, full-stack ba
 Year 3 — Specialize & Gain Industry Exposure: Full stack, AI/ML, Data, Cloud, Cyber Security, real-world projects. Outcomes: Deep expertise in chosen career track, strong portfolio, internship exposure.
 Year 4 — Placement Prep & Career Launch: Advanced DSA, mock interviews, aptitude, communication, portfolio finalization. Outcomes: Interview-ready, polished portfolio, secure internships and full-time roles.
 
-Coding Training:
-550+ hours of structured coding training | 2 hours daily DSA practice | 300+ LeetCode challenges | 100+ hours structured interview preparation | AMCAT assessments from Semester 1
+Coding Training: 550+ hours | 2 hours daily DSA | 300+ LeetCode challenges | 100+ hours interview prep | AMCAT from Semester 1
 
-Industry-Recognized Certifications:
-Full Stack: MERN, REST APIs — MongoDB, React, Node.js, JavaScript, HTML5, Docker
-AI & ML: Deep Learning, NLP, MLOps — Python, TensorFlow, PyTorch, Pandas, Jupyter, Kubernetes
-AWS Cloud: Infrastructure, DevOps, Serverless — AWS EC2, AWS S3, Terraform, Docker
-Cyber Security: Ethical Hacking, Network Security, SOC — Linux/Kali, Python, Bash, AWS Security
-Data Science: Analytics, Pipelines — Pandas, PostgreSQL, Spark, Jupyter, AWS Redshift
+Certifications: Full Stack (MERN, React, Node.js, Docker) | AI & ML (TensorFlow, PyTorch, NLP) | AWS Cloud (EC2, S3, Terraform) | Cyber Security (Kali Linux, Ethical Hacking) | Data Science (Pandas, Spark, PostgreSQL)
 
-Placement Highlights (Audited by B2K Analytics — official auditor for IIM Ahmedabad):
-1,400+ offers received | 7x more companies than top-tier private institutions | 1,170+ offers from legacy recruiters | 63% higher ROI vs private institutions | 1,020+ opportunities across sectors | 200+ placement opportunities per student OR get 1st year fee back
+Placement Highlights (Audited by B2K Analytics — IIM Ahmedabad's official auditor):
+1,400+ offers | 7x more companies than top-tier private institutions | 1,170+ legacy recruiter offers | 63% higher ROI | 1,020+ opportunities | 200+ opportunities per student OR 1st year fee back
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 BCA — COMPLETE DETAILS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Duration: 3 years (6 semesters)
-Internship: 6 months (built into program)
-Projects: 5 live/simulated projects (one per semester)
-Career Tracks: AI/ML | Full Stack Web Development | Data Science | Cloud | Cyber Security
+Duration: 3 years
+Internship: 6 months built in
+Projects: 5 live/simulated projects
+Career Tracks: AI/ML | Full Stack | Data Science | Cloud | Cyber Security
 Eligibility: 10+2 any stream, minimum 45%
 
-Year-by-Year Journey:
-Year 1 — Start Coding. Think Like a Developer: Python, C/C++, HTML & CSS, Git, AI coding tools, problem solving. Build first app with AI as learning partner.
-Year 2 — Build Projects. Think Like an Engineer: DSA, React, Node.js, SQL/MongoDB, REST APIs, system design basics. Build 3-5 portfolio projects.
-Year 3 — Specialize. Get Hired: Career track (AI/ML, Cloud, etc.), industry projects, mock interviews. Placement-ready with strong portfolio.
+Year 1 — Start Coding: Python, C/C++, HTML/CSS, Git, AI tools. Build first app from day one.
+Year 2 — Build Projects: DSA, React, Node.js, SQL/MongoDB, REST APIs. Build 3-5 portfolio projects.
+Year 3 — Specialize & Get Hired: Career track, industry projects, mock interviews, placement ready.
 
-Coding Training: 500+ hours | 300+ LeetCode challenges | 2 hours daily DSA | 100+ hours interview prep | AMCAT from Semester 1
+Coding Training: 500+ hours | 300+ LeetCode | 2 hours daily DSA | 100+ hours interview prep | AMCAT from Semester 1
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
-COMMON SUNSTONE FEATURES
+SUNSTONE FEATURES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 AI Tools (2 new per year): ChatGPT, Google Gemini, Claude, Grok, GitHub, TensorFlow, PyTorch, AWS, SQL, Zapier, n8n, Figma
 
-Industry Mentors: Ashish Jha (Google) | Neeraj Sharma (IIT Roorkee) | Ketan Khatu (Accenture) | Anand Vardhan (Infosys) | Sumit Mudgal (AI Startup Founder) | Abhinav Agarwal (CMO BharatPe) | 30+ exclusive sessions
+Industry Mentors: Ashish Jha (Google) | Neeraj Sharma (IIT Roorkee) | Ketan Khatu (Accenture) | Anand Vardhan (Infosys) | Abhinav Agarwal (CMO BharatPe) | 30+ exclusive sessions
 
-Campus Life (Mohali): Management Fest (prizes ₹2 Lakh) | Tech Fest CodeQuest (prizes ₹1 Lakh) | Cultural Fest | Sports Week Educathon 5K/10K | HPAIR International Conclave | Student Exchange Program | Coding, Sports, Cultural Clubs | Freshers Party
+Campus Life: Management Fest (prizes Rs 2 Lakh) | Tech Fest CodeQuest (prizes Rs 1 Lakh) | Cultural Fest | Sports Week | HPAIR International Conclave | Student Exchange Program | Coding, Sports, Cultural Clubs | Freshers Party
 
-Startup Launchpad: Build startup as part of curriculum | Pre-seed ideation funding | Expert mentorship | Investor networking | Dropshipping and MVP challenges
+Startup Launchpad: Build startup as part of curriculum | Pre-seed ideation funding | Expert mentorship | Investor networking
 
-Global Immersion Program (GIP): Optional 10-day trip to Dubai or Singapore
+Global Immersion Program: Optional 10-day trip to Dubai or Singapore
 
-Sunstone App: 1,000+ tech jobs & internships | LMS | Interview prep | Daily tracker | Student community across India
+Sunstone App: 1,000+ tech jobs & internships | LMS | Interview prep | Student community
 
-About Sunstone: Founded 2019 | 1,200+ recruiter network | 20,000+ students | 20+ campuses pan-India
-Pan-India campuses: Mohali, Ghaziabad, Sonipat, Bengaluru, Dehradun, Jaipur, Faridabad, Coimbatore, Indore, Guwahati, Chennai, Pune, Bhopal
+About Sunstone: Founded 2019 | 1,200+ recruiters | 20,000+ students | 20+ campuses pan-India
+Campuses: Mohali, Ghaziabad, Sonipat, Bengaluru, Dehradun, Jaipur, Faridabad, Indore, Guwahati, Chennai, Pune, Bhopal
 Awards: Top Growth Company in Digital Learning | Edtech Company of Year | Best Placements Award | Leading Innovation in AI-Powered Learning
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SCHOLARSHIPS & FEES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
-NSAT: Scholarships up to 100% based on percentile | Tests aptitude, logical reasoning, problem-solving | Equal opportunity for all students
-SAT: Mandatory for admission | Determines scholarship along with Class 10, 12 marks and gender diversity
-Zero Cost EMI: No interest, no processing fee, no collaterals, no hidden charges | 72-hour digital approval | Start monthly payments after joining
-Exact Fees: Campus-specific — counselor will share exact Mohali campus fee on WhatsApp
+NSAT: Up to 100% scholarship | Tests aptitude, reasoning, problem-solving
+SAT: Mandatory for admission | Determines scholarship with Class 10, 12 marks
+Zero Cost EMI: No interest, no processing fee, no collaterals | 72-hour digital approval
+Exact Fees: Counselor will share campus-specific details on WhatsApp
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ADMISSION PROCESS
@@ -87,24 +80,22 @@ BCA: Apply at sunstone.in → SAT + screening interview + docs → Accept offer
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 YOUR PERSONALITY & RULES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Speak like a warm helpful elder sister — not a brochure. Use natural Hindi-English: "Bilkul sahi!", "Koi tension nahi!", "Bahut badhiya!", "Ekdum perfect!"
-KEEP RESPONSES SHORT — 3 to 5 lines max. Instagram chat, not an essay!
-Use 1-2 emojis per message. Always end with a question to keep conversation going.
+Speak like a warm helpful elder sister. Use Hindi-English: "Bilkul sahi!", "Koi tension nahi!", "Bahut badhiya!"
+KEEP RESPONSES SHORT — 3 to 5 lines max. Instagram chat!
+Use 1-2 emojis. Always end with a question.
 Never recommend other colleges. Never be negative.
-For exact fees: "Our counselor will share exact Mohali campus fees on WhatsApp — Zero Cost EMI is available too!"
+For exact fees: "Our counselor will share exact Mohali campus fees on WhatsApp — Zero Cost EMI available!"
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 LEAD CAPTURE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
-After 2-3 exchanges OR when student shows interest, naturally say:
-"Acha! Let me connect you with our RBU Mohali admission team for full details. Can I quickly note:
+After 2-3 exchanges OR when student shows interest, say:
+"Acha! Let me connect you with our RBU Mohali admission team. Can I quickly note:
 1. Your Name
 2. WhatsApp Number
 3. Email ID"
 
-Once collected: "Thank you [Name]! Our team will reach you on WhatsApp within 24 hours. You're one step closer to a great tech career!"
-
-If referral asked: "Great! Sunstone has a referral program — refer a friend and both of you benefit! Our counselor will share full details when they call you."
+Once collected: "Thank you [Name]! Our team will reach you on WhatsApp within 24 hours. You are one step closer to a great tech career!"
 `;
 
 const QUICK_REPLIES = [
@@ -160,10 +151,9 @@ function ReferralModal({ onClose }) {
               <div style={{ fontSize: 38, marginBottom: 6 }}>🎁</div>
               <div style={{ color: "#fff", fontSize: 18, fontWeight: 700 }}>Refer a Friend</div>
               <div style={{ color: "rgba(255,255,255,0.45)", fontSize: 12, marginTop: 4 }}>Share the opportunity. Support a dream.</div>
-              <div style={{ marginTop: 10, background: "rgba(252,176,69,0.1)",
-                border: "1px solid rgba(252,176,69,0.25)", borderRadius: 10,
-                padding: "8px 12px", color: "#fcb045", fontSize: 12 }}>
-                ✨ Sunstone Referral Program — both of you benefit!
+              <div style={{ marginTop: 10, background: "rgba(252,176,69,0.1)", border: "1px solid rgba(252,176,69,0.25)",
+                borderRadius: 10, padding: "8px 12px", color: "#fcb045", fontSize: 12 }}>
+                Sunstone Referral Program — both of you benefit!
               </div>
             </div>
             {[
@@ -192,8 +182,7 @@ function ReferralModal({ onClose }) {
             </div>
             <button onClick={handleSubmit} style={{ width: "100%", padding: "12px",
               background: "linear-gradient(135deg,#6a0dad,#c0392b,#fcb045)",
-              border: "none", borderRadius: 14, color: "#fff",
-              fontWeight: 700, fontSize: 15, cursor: "pointer", marginBottom: 8 }}>
+              border: "none", borderRadius: 14, color: "#fff", fontWeight: 700, fontSize: 15, cursor: "pointer", marginBottom: 8 }}>
               Submit Referral 🚀
             </button>
             <button onClick={onClose} style={{ width: "100%", padding: "10px",
@@ -207,16 +196,15 @@ function ReferralModal({ onClose }) {
             <div style={{ fontSize: 48, marginBottom: 10 }}>🎉</div>
             <div style={{ color: "#fff", fontSize: 18, fontWeight: 700, marginBottom: 8 }}>Referral Submitted!</div>
             <div style={{ color: "rgba(255,255,255,0.55)", fontSize: 13, lineHeight: 1.7, marginBottom: 16 }}>
-              Thank you {form.yourName}!<br />Our team will reach {form.friendName} on WhatsApp within 24 hours. 🙏
+              Thank you {form.yourName}!<br />Our team will reach {form.friendName} on WhatsApp within 24 hours.
             </div>
             <div style={{ background: "rgba(74,222,128,0.08)", border: "1px solid rgba(74,222,128,0.25)",
               borderRadius: 12, padding: 12, color: "#4ade80", fontSize: 12, marginBottom: 18 }}>
-              Both of you will hear from our counselor about referral benefits!
+              Both of you will hear about referral benefits!
             </div>
             <button onClick={onClose} style={{ padding: "12px 32px",
               background: "linear-gradient(135deg,#6a0dad,#c0392b)",
-              border: "none", borderRadius: 14, color: "#fff",
-              fontWeight: 700, fontSize: 14, cursor: "pointer" }}>
+              border: "none", borderRadius: 14, color: "#fff", fontWeight: 700, fontSize: 14, cursor: "pointer" }}>
               Back to Chat
             </button>
           </div>
@@ -253,18 +241,17 @@ export default function App() {
     setLoading(true);
 
     try {
-      const res = await fetch("https://api.anthropic.com/v1/messages", {
+      // ✅ FIXED: calls our own Vercel API function instead of Anthropic directly
+      const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          model: "claude-sonnet-4-6",
-          max_tokens: 1000,
           system: COLLEGE_INFO,
           messages: next.map(m => ({ role: m.role === "assistant" ? "assistant" : "user", content: m.text })),
         }),
       });
       const data = await res.json();
-      const reply = data?.content?.[0]?.text || "Sorry, couldn't connect right now. Please try again! 🙏";
+      const reply = data?.content?.[0]?.text || "Sorry, could not connect right now. Please try again!";
       setMessages(prev => [...prev, { role: "assistant", text: reply }]);
     } catch {
       setMessages(prev => [...prev, { role: "assistant", text: "Oops! Connection issue. Please try again in a moment 🙏" }]);
@@ -406,7 +393,7 @@ export default function App() {
           <span style={{ fontSize: 20 }}>🎁</span>
           <div style={{ flex: 1 }}>
             <div style={{ color: "#fcb045", fontSize: 12, fontWeight: 700 }}>Refer a Friend to RBU</div>
-            <div style={{ color: "rgba(255,255,255,0.38)", fontSize: 11 }}>Someone's dream college is one referral away →</div>
+            <div style={{ color: "rgba(255,255,255,0.38)", fontSize: 11 }}>Someone's dream college is one referral away</div>
           </div>
           <div style={{ background: "rgba(252,176,69,0.13)", border: "1px solid rgba(252,176,69,0.28)",
             borderRadius: 20, padding: "4px 11px", fontSize: 11, color: "#fcb045" }}>Refer Now</div>
@@ -439,7 +426,6 @@ export default function App() {
           </button>
         </div>
 
-        {/* Footer */}
         <div style={{ background: "#080814", textAlign: "center", padding: "7px 0 14px",
           fontSize: 10.5, color: "rgba(255,255,255,0.18)" }}>
           Rayat Bahra University, Mohali • Powered by Sunstone
@@ -447,13 +433,9 @@ export default function App() {
       </div>
 
       <style>{`
-        @keyframes bounce {
-          0%,60%,100%{transform:translateY(0);opacity:0.4}
-          30%{transform:translateY(-6px);opacity:1}
-        }
+        @keyframes bounce { 0%,60%,100%{transform:translateY(0);opacity:0.4} 30%{transform:translateY(-6px);opacity:1} }
         textarea::placeholder{color:rgba(255,255,255,0.25)}
-        ::-webkit-scrollbar{width:3px}
-        ::-webkit-scrollbar-track{background:transparent}
+        ::-webkit-scrollbar{width:3px} ::-webkit-scrollbar-track{background:transparent}
         ::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.08);border-radius:4px}
         select option{background:#1a1535;color:#fff}
       `}</style>

@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect } from "react";
+import { Analytics } from '@vercel/analytics/react';
 
 const COLLEGE_INFO = `
 You are Riya, a warm and friendly admission counselor for Rayat Bahra University (RBU), Mohali — powered by Sunstone School of Technology & Computer Applications.
@@ -439,6 +440,7 @@ export default function App() {
         ::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.08);border-radius:4px}
         select option{background:#1a1535;color:#fff}
       `}</style>
+      <Analytics />
     </div>
   );
 }
